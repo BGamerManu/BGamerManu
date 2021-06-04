@@ -1,16 +1,19 @@
-### Hi there 👋
+## Chi sono? 👋
+Sono un semplicssimo ragazzo di 18 anni. Gestisco un bot chiamato [GerryBot](https://bgamermanu.cf/gerryinvite) creato inizialmente per imparare il JavaScript, ora il bot ha molte funzioni utili come i ban, i kick e i warn e comandi di svago inerenti a Gerry Scotti
 
-<!--
-**BGamerManu/BGamerManu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Qua sotto sono elencati i miei progetti
+## GerryBot 🤖
+![Server di supporto GerryBot](https://img.shields.io/discord/775424307861782549?label=Server%20di%20supporto%20GerryBot&logo=discord&logoColor=white)
 
-Here are some ideas to get you started:
+**Bot interamente dedicato a Gerry Scotti con le sue clip + qualche funzione molto utile per la gestione o lo svago all'interno del server discord**
+GerryBot è suddiviso in due versioni:
+- Versione Stable
+  - Sempre online e attiva
+- Versione Beta
+  - Online solo nei momenti in cui il bot principale ha problemi o il bot sta per ricevere nuove funzioni e nuovi aggiornamenti
+## MediaCreationTools Bat
+Una repo creata da un github gist di [AveYo](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15), questo file .bat contiene tutti i Media Creatioon Tool di Windows 10 con tutte le versioni dalla 1507 all'ultima rilasciata
+***
+Sono presente su [Instagram](http://instagram.com/bgamermanu), [Twitter](https://twitter.com/BGamerManu1), Telegram (@bgamermanu) e [Twitch](https://twitch.tv/bgamermanu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Twitter](https://img.shields.io/twitter/follow/BGamerManu1?style=social) ![Twitch](https://img.shields.io/twitch/status/BGamerManu?label=Canale%20Twitch%20di%20BGamerManu&style=social)
