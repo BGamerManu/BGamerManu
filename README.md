@@ -16,7 +16,7 @@ Una repo creata da un github gist di [AveYo](https://gist.github.com/AveYo/c74dc
 
 <details>
 ## <summary>I miei social 📱</summary>
-Sono presente su [Instagram](http://instagram.com/bgamermanu), [Twitter](https://twitter.com/BGamerManu1), Telegram (@bgamermanu) e [Twitch](https://twitch.tv/bgamermanu)
-
+Sono presente su <a href="http://instagram.com/bgamermanu">Instagram</a>, <a href="http://twitter.com/bgamermanu1">Twitter</a>, Telegram (@bgamermanu) e <a href="http://twitch.tv/bgamermanu">Twitch</a>
+<br>
 ![Twitter](https://img.shields.io/twitter/follow/BGamerManu1?style=social) ![Twitch](https://img.shields.io/twitch/status/BGamerManu?label=Canale%20Twitch%20di%20BGamerManu&style=social)
 </details>
