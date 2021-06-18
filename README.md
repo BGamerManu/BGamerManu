@@ -13,7 +13,10 @@ GerryBot è suddiviso in due versioni:
   - Online solo nei momenti in cui il bot principale ha problemi o il bot sta per ricevere nuove funzioni e nuovi aggiornamenti
 ## MediaCreationTools Bat
 Una repo creata da un github gist di [AveYo](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15), questo file .bat contiene tutti i Media Creatioon Tool di Windows 10 con tutte le versioni dalla 1507 all'ultima rilasciata
+
+<details>
 <summary>I miei social 📱</summary>
 Sono presente su [Instagram](http://instagram.com/bgamermanu), [Twitter](https://twitter.com/BGamerManu1), Telegram (@bgamermanu) e [Twitch](https://twitch.tv/bgamermanu)
 
 ![Twitter](https://img.shields.io/twitter/follow/BGamerManu1?style=social) ![Twitch](https://img.shields.io/twitch/status/BGamerManu?label=Canale%20Twitch%20di%20BGamerManu&style=social)
+</details>
