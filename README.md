@@ -17,3 +17,11 @@ Canale [PaoloBonolisClips](https://t.me/paolobonolisclips)
 [Profilo IG PaoloBonolisClips](https://instagram.com/paolobonolisclips)
 
 [Profilo Gelateria](https://instagram.com/gelateriaciao2)
+
+## Skill di Alexa
+
+<img src="https://cdn.discordapp.com/attachments/758012100496064592/976461601643323462/s-l600-removebg-preview.png" alt="Echo dot 3" width="70" height="70">
+
+- [Countdown Esame Maturità 2022](https://alexa.amazon.it/spa/index.html#skills/dp/B0B12P7LP2/?ref=skill_dsk_stick_sr_0&qid=15963d82-9587-4027-9b55-e542ae2a0632)
+- [FUTURO] Luci notturne
+     - Questa skill ti consentirà di tenere sempre acceso il led degli echo dot senza richiamare comandi, e impostarli volendo un colore da quelli presenti nell'Alexa "vanilla"
