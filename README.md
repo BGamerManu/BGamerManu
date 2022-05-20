@@ -25,3 +25,5 @@ Canale [PaoloBonolisClips](https://t.me/paolobonolisclips)
 - [Countdown Esame Maturità 2022](https://alexa.amazon.it/spa/index.html#skills/dp/B0B12P7LP2/?ref=skill_dsk_stick_sr_0&qid=15963d82-9587-4027-9b55-e542ae2a0632)
 - [FUTURO] Luci notturne
      - Questa skill ti consentirà di tenere sempre acceso il led degli echo dot senza richiamare comandi, e impostarli volendo un colore da quelli presenti nell'Alexa "vanilla"
+- [FUTURO] AlexaTube
+   - Con questa skill potrai scegliere di ascoltare video su YouTube attraverso il tuo echo dot (senza dover obbligatoriamente usare il collegament bluetooth) o vederli se disponi di un Echo Show
