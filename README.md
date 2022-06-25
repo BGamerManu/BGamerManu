@@ -27,3 +27,9 @@ Canale [PaoloBonolisClips](https://t.me/paolobonolisclips)
      - Questa skill ti consentirà di tenere sempre acceso il led degli echo dot senza richiamare comandi, e impostarli volendo un colore da quelli presenti nell'Alexa "vanilla"
 - [FUTURO] AlexaTube
    - Con questa skill potrai scegliere di ascoltare video su YouTube attraverso il tuo echo dot (senza dover obbligatoriamente usare il collegament bluetooth) o vederli se disponi di un Echo Show
+- [FUTURO] AllTheRadio
+   - Una skill di Alexa che ti permette di ascoltare qualsiasi radio di qualsiasi parte del mondo solamente chiedendo "Alexa, riproduci Radio Zet su AllTheRadio"
+   - (Annotazione di servizio: Radio Zet è una radio polacca)
+
+## Github Gist
+Ogni tanto propongo qualche tutorial su github gist. [Seguimi anche qui](https://gist.github.com/BGamerManu)
