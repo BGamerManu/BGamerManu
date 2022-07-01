@@ -20,7 +20,7 @@ Canale [PaoloBonolisClips](https://t.me/paolobonolisclips)
 
 ## Skill di Alexa
 
-<img src="https://cdn.discordapp.com/attachments/758012100496064592/977287703316025414/unknown.png" alt="Icona App Alexa" width="70" height="70">
+<img src="https://seeklogo.com/images/A/amazon-alexa-logo-D1BE24A213-seeklogo.com.png" alt="Icona App Alexa" width="50" height="50">
 
 - [Countdown Esame Maturità](https://alexa.amazon.it/spa/index.html#skills/dp/B0B12P7LP2/?ref=skill_dsk_stick_sr_0&qid=15963d82-9587-4027-9b55-e542ae2a0632)
 - [FUTURO] Luci notturne
