@@ -7,6 +7,8 @@ Sono un semplicssimo ragazzo di 18 anni. Na volta mi dedicavo al coding, ora fac
 Canale [BGamerManu Random Posts](https://t.me/bgamermanuposts)
 
 Canale [PaoloBonolisClips](https://t.me/paolobonolisclips)
+***
+[Profilo personale](https://t.me/bgamermanu) <br> Non rompete se mi dovete solamente scrivere un "ciao" a cazzo di cane. Scrivete solo se avete buoni motivi per farlo
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" width="50" height="50">
 
@@ -20,7 +22,7 @@ Canale [PaoloBonolisClips](https://t.me/paolobonolisclips)
 
 ## Skill di Alexa
 
-<img src="https://seeklogo.com/images/A/amazon-alexa-logo-D1BE24A213-seeklogo.com.png" alt="Icona App Alexa" width="50" height="50">
+<img src="https://cdn-reichelt.de/bilder/web/xxl_ws/R800/AMAZON_ECHO_DOT_4_SW_01.png" alt="Icona App Alexa" width="70" height="70">
 
 - [Countdown Esame Maturità](https://alexa.amazon.it/spa/index.html#skills/dp/B0B12P7LP2/?ref=skill_dsk_stick_sr_0&qid=15963d82-9587-4027-9b55-e542ae2a0632)
 - [FUTURO] Luci notturne
