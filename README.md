@@ -1,5 +1,5 @@
 ## Chi sono? 👋
-Sono un semplicssimo ragazzo di 18 anni. Na volta mi dedicavo al coding, ora faccio random posting e mi dedico ai viaggi... Ogni tanto mi sale la nostalgia e compilo qualche bot e se ne trovo un'utilità (<strike>impossibile</strike>)
+Sono un semplicssimo ragazzo di 18 anni. Na volta mi dedicavo al coding, ora faccio random posting e mi dedico ai viaggi... Ogni tanto mi sale la nostalgia e compilo qualche bot e se ne trovo un'utilità (<strike>impossibile</strike>) lo rendo open source
 
 ## Dove trovarmi
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="50" height="50">
