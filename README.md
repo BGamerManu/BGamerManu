@@ -4,7 +4,7 @@ Sono un semplicssimo ragazzo di 18 anni. Na volta mi dedicavo al coding, ora fac
 ## Dove trovarmi
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="50" height="50">
 
-Canale [BGamerManu Random Posts](https://t.me/bgamermanuposts)
+Canale [Manuel Ottani Random Posts](https://t.me/manuel_ottani_posts)
 
 Canale [PaoloBonolisClips](https://t.me/paolobonolisclips)
 ***
@@ -14,12 +14,12 @@ Canale [PaoloBonolisClips](https://t.me/paolobonolisclips)
 
 [Profilo principale](https://instagram.com/manuel_ottani)
 
-[Profilo secondario](https://instagram.com/manuel_ottani.2)
+[Secondo profilo - profilo spam](https://instagram.com/manu.particella_di_benzina)
 
 [Profilo IG PaoloBonolisClips](https://instagram.com/paolobonolisclips)
 
 [Profilo Gelateria](https://instagram.com/gelateriaciao2)
-***
+
 [Il mio sito](https://manuelottani.cf/)
 
 ## Skill di Alexa
