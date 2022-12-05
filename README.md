@@ -19,19 +19,19 @@ Canale [PaoloBonolisClips](https://t.me/paolobonolisclips)
 [Profilo IG PaoloBonolisClips](https://instagram.com/paolobonolisclips)
 
 [Profilo Gelateria](https://instagram.com/gelateriaciao2)
+***
+[Il mio sito](https://manuelottani.cf/)
 
 ## Skill di Alexa
 
 <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/R800/AMAZON_ECHO_DOT_4_SW_01.png" alt="Icona App Alexa" width="70" height="70">
 
 - [Countdown Esame Maturità](https://alexa.amazon.it/spa/index.html#skills/dp/B0B12P7LP2/?ref=skill_dsk_stick_sr_0&qid=15963d82-9587-4027-9b55-e542ae2a0632) **Aggiornato alle date 2023**
-- [FUTURO] Lights Out
-     - Questa skill ti consentirà di tenere sempre acceso il led degli echo dot senza richiamare comandi, e impostarli volendo un colore da quelli presenti nell'Alexa "vanilla"
-- [FUTURO] AlexaTube
-   - Con questa skill potrai scegliere di ascoltare video su YouTube attraverso il tuo echo dot (senza dover obbligatoriamente usare il collegament bluetooth) o vederli se disponi di un Echo Show
-- [FUTURO] Radio Garden X Alexa
-   - Una skill di Alexa che ti permette di ascoltare qualsiasi radio di qualsiasi parte del mondo solamente chiedendo "Alexa, riproduci Radio Zet su AllTheRadio"
-   - (Annotazione di servizio: Radio Zet è una radio polacca)
+
+## Le live 24/7 ad eventi
+Semplici dirette che iniziano da una determinata data e vanno giorno e notte fino ad una determinata data
+[Approfondisci](https://manuelottani.cf/streamingh24/)
+[Cartelli che POSSONO essere trasmessi](https://manuelottani.cf/streamingh24/cartelli_trasmissione/)
 
 ## Github Gist
 Ogni tanto propongo qualche tutorial su github gist. [Seguimi anche qui](https://gist.github.com/BGamerManu)
